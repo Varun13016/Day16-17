@@ -1,0 +1,14 @@
+C:\Users\VARUN KUMAR\source\repos\PrimeNUmDemo\PrimeNUmDemo\bin\Debug\netcoreapp3.1\PrimeNUmDemo.exe
+C:\Users\VARUN KUMAR\source\repos\PrimeNUmDemo\PrimeNUmDemo\bin\Debug\netcoreapp3.1\PrimeNUmDemo.deps.json
+C:\Users\VARUN KUMAR\source\repos\PrimeNUmDemo\PrimeNUmDemo\bin\Debug\netcoreapp3.1\PrimeNUmDemo.runtimeconfig.json
+C:\Users\VARUN KUMAR\source\repos\PrimeNUmDemo\PrimeNUmDemo\bin\Debug\netcoreapp3.1\PrimeNUmDemo.runtimeconfig.dev.json
+C:\Users\VARUN KUMAR\source\repos\PrimeNUmDemo\PrimeNUmDemo\bin\Debug\netcoreapp3.1\PrimeNUmDemo.dll
+C:\Users\VARUN KUMAR\source\repos\PrimeNUmDemo\PrimeNUmDemo\bin\Debug\netcoreapp3.1\PrimeNUmDemo.pdb
+C:\Users\VARUN KUMAR\source\repos\PrimeNUmDemo\PrimeNUmDemo\obj\Debug\netcoreapp3.1\PrimeNUmDemo.csproj.AssemblyReference.cache
+C:\Users\VARUN KUMAR\source\repos\PrimeNUmDemo\PrimeNUmDemo\obj\Debug\netcoreapp3.1\PrimeNUmDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VARUN KUMAR\source\repos\PrimeNUmDemo\PrimeNUmDemo\obj\Debug\netcoreapp3.1\PrimeNUmDemo.AssemblyInfoInputs.cache
+C:\Users\VARUN KUMAR\source\repos\PrimeNUmDemo\PrimeNUmDemo\obj\Debug\netcoreapp3.1\PrimeNUmDemo.AssemblyInfo.cs
+C:\Users\VARUN KUMAR\source\repos\PrimeNUmDemo\PrimeNUmDemo\obj\Debug\netcoreapp3.1\PrimeNUmDemo.csproj.CoreCompileInputs.cache
+C:\Users\VARUN KUMAR\source\repos\PrimeNUmDemo\PrimeNUmDemo\obj\Debug\netcoreapp3.1\PrimeNUmDemo.dll
+C:\Users\VARUN KUMAR\source\repos\PrimeNUmDemo\PrimeNUmDemo\obj\Debug\netcoreapp3.1\PrimeNUmDemo.pdb
+C:\Users\VARUN KUMAR\source\repos\PrimeNUmDemo\PrimeNUmDemo\obj\Debug\netcoreapp3.1\PrimeNUmDemo.genruntimeconfig.cache
